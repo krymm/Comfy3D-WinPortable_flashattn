@@ -4,4 +4,4 @@ https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/download/v6.2-whe
 
 # Flash Attention is useful for Ampere and newer GPUs, but incompatible with older GPUs (Pascal, Turing).
 # Uncomment the line below to install Flash Attention.
-#https://huggingface.co/lldacing/flash-attention-windows-wheel/resolve/main/flash_attn-2.7.0.post2%2Bcu124torch2.5.1cxx11abiFALSE-cp312-cp312-win_amd64.whl
+https://huggingface.co/lldacing/flash-attention-windows-wheel/resolve/main/flash_attn-2.7.0.post2%2Bcu124torch2.5.1cxx11abiFALSE-cp312-cp312-win_amd64.whl
